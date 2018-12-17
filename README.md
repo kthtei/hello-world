@@ -1,2 +1,3 @@
 # hello-world
-This is a tutorial
+
+Hi, I'm just figuring out how to use github.
